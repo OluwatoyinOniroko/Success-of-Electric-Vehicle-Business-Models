@@ -1,6 +1,7 @@
 # Success-of-Electric-Vehicle-Business-Models
 An In-depth Examination of Parameters Contributing to the Success of Electric Vehicle Business  Models
-    The primary objective of this pilot project is to investigate existing datasets pertaining to the market share (supply and demand) of electric vehicles (EVs) and to gain     insights into the various factors influencing the increase in customer adoption of EVs.
+    
+The primary objective of this pilot project is to investigate existing datasets pertaining to the market share (supply and demand) of electric vehicles (EVs) and to gain     insights into the various factors influencing the increase in customer adoption of EVs.
 
 This analysis aims to identify key variables that can form the foundation for more extensive research on the development of a viable EV business model.
 
